@@ -2,7 +2,17 @@
 
 The main code is from [here](https://github.com/lengstrom/fast-style-transfer) with some changes.
 
-Local setup
+## Example
+
+<p align = 'center'>
+<img src = 'avatar.jpeg' height = '246px'>
+<img src = 'output_image.jpg' height = '246px'>
+</p>
+<p align = 'center'>
+style change for my github avatar
+</p>
+
+## How to run
 
 1. Install python 3.7
 1. Install [Miniconda](https://conda.io/miniconda.html)
